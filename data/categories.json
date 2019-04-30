@@ -1,0 +1,249 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Expected '50' to be 30.",
+      "children" : [ {
+        "name" : "should be able to move slider (fails by design to gen video)",
+        "uid" : "ec1b754889237ce5",
+        "parentUid" : "d35f258aac4b1eda8e89686bfcbbbe05",
+        "status" : "failed",
+        "time" : {
+          "start" : 1556555459285,
+          "stop" : 1556555461006,
+          "duration" : 1721
+        },
+        "flaky" : false,
+        "parameters" : [ "safari" ]
+      }, {
+        "name" : "should be able to move slider (fails by design to gen video)",
+        "uid" : "f4dbba59624b87a2",
+        "parentUid" : "d35f258aac4b1eda8e89686bfcbbbe05",
+        "status" : "failed",
+        "time" : {
+          "start" : 1556555461257,
+          "stop" : 1556555464380,
+          "duration" : 3123
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "should be able to move slider (fails by design to gen video)",
+        "uid" : "dd87be952cf7f156",
+        "parentUid" : "d35f258aac4b1eda8e89686bfcbbbe05",
+        "status" : "failed",
+        "time" : {
+          "start" : 1556555463625,
+          "stop" : 1556555467069,
+          "duration" : 3444
+        },
+        "flaky" : false,
+        "parameters" : [ "firefox" ]
+      } ],
+      "uid" : "d35f258aac4b1eda8e89686bfcbbbe05"
+    }, {
+      "name" : "Expected '51' to be 30.",
+      "children" : [ {
+        "name" : "should be able to move slider (fails by design to gen video)",
+        "uid" : "3d977710bccb6c2e",
+        "parentUid" : "2f837365f751203c34870c95029a688c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1556555460913,
+          "stop" : 1556555463484,
+          "duration" : 2571
+        },
+        "flaky" : false,
+        "parameters" : [ "MicrosoftEdge" ]
+      }, {
+        "name" : "should be able to move slider (fails by design to gen video)",
+        "uid" : "b230ef90ec20b5a",
+        "parentUid" : "2f837365f751203c34870c95029a688c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1556555471331,
+          "stop" : 1556555477333,
+          "duration" : 6002
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome", "phone" ]
+      }, {
+        "name" : "should be able to move slider (fails by design to gen video)",
+        "uid" : "aadbb66b40087537",
+        "parentUid" : "2f837365f751203c34870c95029a688c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1556555480120,
+          "stop" : 1556555489058,
+          "duration" : 8938
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome", "tablet" ]
+      } ],
+      "uid" : "2f837365f751203c34870c95029a688c"
+    }, {
+      "name" : "CompoundError: One or more errors occurred. ---\n                    Error: Expected false to be true.\n                        at <Jasmine>\n                        at UserContext.toBe (./src/scenarios/selenium-easy.e2e.js:66:40)\n                        at <Jasmine>\n                --- End of stack trace ---\n                    Error: Expected false to be true.\n                        at <Jasmine>\n                        at UserContext.toBe (./src/scenarios/selenium-easy.e2e.js:67:37)\n                        at <Jasmine>\n                --- End of stack trace ---\n                    Error: Expected false to be true.\n                        at <Jasmine>\n                        at UserContext.toBe (./src/scenarios/selenium-easy.e2e.js:68:38)\n                        at <Jasmine>\n                --- End of stack trace ---",
+      "children" : [ {
+        "name" : "should be able to multi-select in dropdown (fails by design to gen video)",
+        "uid" : "c5a47d5363d2a100",
+        "parentUid" : "f4ce1012e1b041c67b2bc189b6bd76b4",
+        "status" : "failed",
+        "time" : {
+          "start" : 1556555461016,
+          "stop" : 1556555463510,
+          "duration" : 2494
+        },
+        "flaky" : false,
+        "parameters" : [ "safari" ]
+      }, {
+        "name" : "should be able to multi-select in dropdown (fails by design to gen video)",
+        "uid" : "826423e299f554c7",
+        "parentUid" : "f4ce1012e1b041c67b2bc189b6bd76b4",
+        "status" : "failed",
+        "time" : {
+          "start" : 1556555467076,
+          "stop" : 1556555471150,
+          "duration" : 4074
+        },
+        "flaky" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "should be able to multi-select in dropdown (fails by design to gen video)",
+        "uid" : "6621354c66cb7579",
+        "parentUid" : "f4ce1012e1b041c67b2bc189b6bd76b4",
+        "status" : "failed",
+        "time" : {
+          "start" : 1556555468090,
+          "stop" : 1556555476703,
+          "duration" : 8613
+        },
+        "flaky" : false,
+        "parameters" : [ "internet explorer" ]
+      } ],
+      "uid" : "f4ce1012e1b041c67b2bc189b6bd76b4"
+    }, {
+      "name" : "Expected '10' to be 30.",
+      "children" : [ {
+        "name" : "should be able to move slider (fails by design to gen video)",
+        "uid" : "7a7182640539bd6d",
+        "parentUid" : "617505b2e6a8077db6d8c212b58fcadb",
+        "status" : "failed",
+        "time" : {
+          "start" : 1556555462927,
+          "stop" : 1556555468084,
+          "duration" : 5157
+        },
+        "flaky" : false,
+        "parameters" : [ "internet explorer" ]
+      }, {
+        "name" : "should be able to move slider (fails by design to gen video)",
+        "uid" : "ca3f22eb3e085f23",
+        "parentUid" : "617505b2e6a8077db6d8c212b58fcadb",
+        "status" : "failed",
+        "time" : {
+          "start" : 1556555464236,
+          "stop" : 1556555467218,
+          "duration" : 2982
+        },
+        "flaky" : false,
+        "parameters" : [ "safari", "tablet" ]
+      }, {
+        "name" : "should be able to move slider (fails by design to gen video)",
+        "uid" : "46bfc44b884bb969",
+        "parentUid" : "617505b2e6a8077db6d8c212b58fcadb",
+        "status" : "failed",
+        "time" : {
+          "start" : 1556555464297,
+          "stop" : 1556555467059,
+          "duration" : 2762
+        },
+        "flaky" : false,
+        "parameters" : [ "safari", "phone" ]
+      } ],
+      "uid" : "617505b2e6a8077db6d8c212b58fcadb"
+    }, {
+      "name" : "Error: Unknown error",
+      "children" : [ {
+        "name" : "should be able to multi-select in dropdown (fails by design to gen video)",
+        "uid" : "580f79b42b16d99e",
+        "parentUid" : "f6b5702fd7eca3765bb75cd1b739da60",
+        "status" : "failed",
+        "time" : {
+          "start" : 1556555463492,
+          "stop" : 1556555465609,
+          "duration" : 2117
+        },
+        "flaky" : false,
+        "parameters" : [ "MicrosoftEdge" ]
+      } ],
+      "uid" : "f6b5702fd7eca3765bb75cd1b739da60"
+    }, {
+      "name" : "CompoundError: One or more errors occurred. ---\n                    Error: Expected false to be true.\n                        at <Jasmine>\n                        at UserContext.toBe (./src/scenarios/selenium-easy.e2e.js:66:40)\n                        at <Jasmine>\n                --- End of stack trace ---\n                    Error: Expected false to be true.\n                        at <Jasmine>\n                        at UserContext.toBe (./src/scenarios/selenium-easy.e2e.js:67:37)\n                        at <Jasmine>\n                --- End of stack trace ---",
+      "children" : [ {
+        "name" : "should be able to multi-select in dropdown (fails by design to gen video)",
+        "uid" : "35f1e7a52e5401f0",
+        "parentUid" : "d4339e0cf2ce61e1b11a5e82659dc0c7",
+        "status" : "failed",
+        "time" : {
+          "start" : 1556555464390,
+          "stop" : 1556555469154,
+          "duration" : 4764
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "should be able to multi-select in dropdown (fails by design to gen video)",
+        "uid" : "ac58a8abf88b065c",
+        "parentUid" : "d4339e0cf2ce61e1b11a5e82659dc0c7",
+        "status" : "failed",
+        "time" : {
+          "start" : 1556555467066,
+          "stop" : 1556555470874,
+          "duration" : 3808
+        },
+        "flaky" : false,
+        "parameters" : [ "safari", "phone" ]
+      }, {
+        "name" : "should be able to multi-select in dropdown (fails by design to gen video)",
+        "uid" : "22102b0029075bfb",
+        "parentUid" : "d4339e0cf2ce61e1b11a5e82659dc0c7",
+        "status" : "failed",
+        "time" : {
+          "start" : 1556555467226,
+          "stop" : 1556555471256,
+          "duration" : 4030
+        },
+        "flaky" : false,
+        "parameters" : [ "safari", "tablet" ]
+      }, {
+        "name" : "should be able to multi-select in dropdown (fails by design to gen video)",
+        "uid" : "5a7eb6a7a5156112",
+        "parentUid" : "d4339e0cf2ce61e1b11a5e82659dc0c7",
+        "status" : "failed",
+        "time" : {
+          "start" : 1556555477339,
+          "stop" : 1556555486439,
+          "duration" : 9100
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome", "phone" ]
+      }, {
+        "name" : "should be able to multi-select in dropdown (fails by design to gen video)",
+        "uid" : "e0e009be8d728247",
+        "parentUid" : "d4339e0cf2ce61e1b11a5e82659dc0c7",
+        "status" : "failed",
+        "time" : {
+          "start" : 1556555489064,
+          "stop" : 1556555502707,
+          "duration" : 13643
+        },
+        "flaky" : false,
+        "parameters" : [ "chrome", "tablet" ]
+      } ],
+      "uid" : "d4339e0cf2ce61e1b11a5e82659dc0c7"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

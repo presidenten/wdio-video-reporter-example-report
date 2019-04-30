@@ -1,0 +1,84 @@
+{
+  "uid" : "ca3f22eb3e085f23",
+  "name" : "should be able to move slider (fails by design to gen video)",
+  "fullName" : "User interactions.should be able to move slider (fails by design to gen video)",
+  "historyId" : "5a454f2fc1f08dda8ccc78259d065c99",
+  "time" : {
+    "start" : 1556555464236,
+    "stop" : 1556555467218,
+    "duration" : 2982
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected '10' to be 30.",
+  "statusTrace" : "Error: Expected '10' to be 30.\n                    at <Jasmine>\n                    at UserContext.toBe (./src/scenarios/selenium-easy.e2e.js:33:19)\n                    at <Jasmine>",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected '10' to be 30.",
+    "statusTrace" : "Error: Expected '10' to be 30.\n                    at <Jasmine>\n                    at UserContext.toBe (./src/scenarios/selenium-easy.e2e.js:33:19)\n                    at <Jasmine>",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1cf944698d3afa5e",
+      "name" : "Execution video",
+      "source" : "1cf944698d3afa5e.mp4",
+      "type" : "video/mp4",
+      "size" : 59119
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "User interactions"
+  }, {
+    "name" : "testClass",
+    "value" : "User interactions"
+  }, {
+    "name" : "testMethod",
+    "value" : "should be able to move slider (fails by design to gen video)"
+  }, {
+    "name" : "package",
+    "value" : "User interactions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "safari"
+  }, {
+    "name" : "deviceType",
+    "value" : "tablet"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "ca3f22eb3e085f23.json",
+  "parameterValues" : [ "safari", "tablet" ]
+}

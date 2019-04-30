@@ -1,0 +1,73 @@
+{
+  "uid" : "2883f729d5513278",
+  "name" : "should be able to edit input (should pass)",
+  "fullName" : "User interactions.should be able to edit input (should pass)",
+  "historyId" : "18b67e0d2f281d3f0f8a679e3aaa0c5f",
+  "time" : {
+    "start" : 1556555456970,
+    "stop" : 1556555463584,
+    "duration" : 6614
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "aa4107434e24a7fd",
+      "name" : "Execution video",
+      "source" : "aa4107434e24a7fd.mp4",
+      "type" : "video/mp4",
+      "size" : 51170
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "6-0"
+  }, {
+    "name" : "suite",
+    "value" : "User interactions"
+  }, {
+    "name" : "testClass",
+    "value" : "User interactions"
+  }, {
+    "name" : "testMethod",
+    "value" : "should be able to edit input (should pass)"
+  }, {
+    "name" : "package",
+    "value" : "User interactions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2883f729d5513278.json",
+  "parameterValues" : [ "firefox" ]
+}

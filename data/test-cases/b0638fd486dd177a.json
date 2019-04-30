@@ -1,0 +1,76 @@
+{
+  "uid" : "b0638fd486dd177a",
+  "name" : "should be able to edit input (should pass)",
+  "fullName" : "User interactions.should be able to edit input (should pass)",
+  "historyId" : "9362f0abe33ddd8c8abf9b1996fcfc04",
+  "time" : {
+    "start" : 1556555460353,
+    "stop" : 1556555464278,
+    "duration" : 3925
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7506efe057b45e09",
+      "name" : "Execution video",
+      "source" : "7506efe057b45e09.mp4",
+      "type" : "video/mp4",
+      "size" : 82232
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "User interactions"
+  }, {
+    "name" : "testClass",
+    "value" : "User interactions"
+  }, {
+    "name" : "testMethod",
+    "value" : "should be able to edit input (should pass)"
+  }, {
+    "name" : "package",
+    "value" : "User interactions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "safari"
+  }, {
+    "name" : "deviceType",
+    "value" : "phone"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b0638fd486dd177a.json",
+  "parameterValues" : [ "safari", "phone" ]
+}

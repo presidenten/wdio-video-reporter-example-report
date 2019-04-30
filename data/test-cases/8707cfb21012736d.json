@@ -1,0 +1,73 @@
+{
+  "uid" : "8707cfb21012736d",
+  "name" : "should be able to edit input (should pass)",
+  "fullName" : "User interactions.should be able to edit input (should pass)",
+  "historyId" : "c45e58a70014e549185822273dec8eae",
+  "time" : {
+    "start" : 1556555455860,
+    "stop" : 1556555460900,
+    "duration" : 5040
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4660e088855d948",
+      "name" : "Execution video",
+      "source" : "4660e088855d948.mp4",
+      "type" : "video/mp4",
+      "size" : 90687
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "4-0"
+  }, {
+    "name" : "suite",
+    "value" : "User interactions"
+  }, {
+    "name" : "testClass",
+    "value" : "User interactions"
+  }, {
+    "name" : "testMethod",
+    "value" : "should be able to edit input (should pass)"
+  }, {
+    "name" : "package",
+    "value" : "User interactions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "MicrosoftEdge"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8707cfb21012736d.json",
+  "parameterValues" : [ "MicrosoftEdge" ]
+}

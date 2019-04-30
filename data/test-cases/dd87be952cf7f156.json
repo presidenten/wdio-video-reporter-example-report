@@ -1,0 +1,81 @@
+{
+  "uid" : "dd87be952cf7f156",
+  "name" : "should be able to move slider (fails by design to gen video)",
+  "fullName" : "User interactions.should be able to move slider (fails by design to gen video)",
+  "historyId" : "700a76b7e54fe237fff765145a6de651",
+  "time" : {
+    "start" : 1556555463625,
+    "stop" : 1556555467069,
+    "duration" : 3444
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected '50' to be 30.",
+  "statusTrace" : "Error: Expected '50' to be 30.\n                    at <Jasmine>\n                    at UserContext.toBe (./src/scenarios/selenium-easy.e2e.js:33:19)\n                    at <Jasmine>",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected '50' to be 30.",
+    "statusTrace" : "Error: Expected '50' to be 30.\n                    at <Jasmine>\n                    at UserContext.toBe (./src/scenarios/selenium-easy.e2e.js:33:19)\n                    at <Jasmine>",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5a68948c21fb797f",
+      "name" : "Execution video",
+      "source" : "5a68948c21fb797f.mp4",
+      "type" : "video/mp4",
+      "size" : 46109
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "6-0"
+  }, {
+    "name" : "suite",
+    "value" : "User interactions"
+  }, {
+    "name" : "testClass",
+    "value" : "User interactions"
+  }, {
+    "name" : "testMethod",
+    "value" : "should be able to move slider (fails by design to gen video)"
+  }, {
+    "name" : "package",
+    "value" : "User interactions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "dd87be952cf7f156.json",
+  "parameterValues" : [ "firefox" ]
+}

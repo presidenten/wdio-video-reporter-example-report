@@ -1,0 +1,84 @@
+{
+  "uid" : "b230ef90ec20b5a",
+  "name" : "should be able to move slider (fails by design to gen video)",
+  "fullName" : "User interactions.should be able to move slider (fails by design to gen video)",
+  "historyId" : "df9524b96b6d7831e1b0b172aff6d556",
+  "time" : {
+    "start" : 1556555471331,
+    "stop" : 1556555477333,
+    "duration" : 6002
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected '51' to be 30.",
+  "statusTrace" : "Error: Expected '51' to be 30.\n                    at <Jasmine>\n                    at UserContext.toBe (./src/scenarios/selenium-easy.e2e.js:33:19)\n                    at <Jasmine>",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected '51' to be 30.",
+    "statusTrace" : "Error: Expected '51' to be 30.\n                    at <Jasmine>\n                    at UserContext.toBe (./src/scenarios/selenium-easy.e2e.js:33:19)\n                    at <Jasmine>",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "699d217eedc8e71e",
+      "name" : "Execution video",
+      "source" : "699d217eedc8e71e.mp4",
+      "type" : "video/mp4",
+      "size" : 94698
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "3-0"
+  }, {
+    "name" : "suite",
+    "value" : "User interactions"
+  }, {
+    "name" : "testClass",
+    "value" : "User interactions"
+  }, {
+    "name" : "testMethod",
+    "value" : "should be able to move slider (fails by design to gen video)"
+  }, {
+    "name" : "package",
+    "value" : "User interactions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  }, {
+    "name" : "deviceType",
+    "value" : "phone"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "b230ef90ec20b5a.json",
+  "parameterValues" : [ "chrome", "phone" ]
+}

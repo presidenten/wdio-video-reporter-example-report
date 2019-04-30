@@ -1,0 +1,81 @@
+{
+  "uid" : "3d977710bccb6c2e",
+  "name" : "should be able to move slider (fails by design to gen video)",
+  "fullName" : "User interactions.should be able to move slider (fails by design to gen video)",
+  "historyId" : "3e037e6c3bb9ced9944471eab43a6f1a",
+  "time" : {
+    "start" : 1556555460913,
+    "stop" : 1556555463484,
+    "duration" : 2571
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected '51' to be 30.",
+  "statusTrace" : "Error: Expected '51' to be 30.\n                    at <Jasmine>\n                    at UserContext.toBe (./src/scenarios/selenium-easy.e2e.js:33:19)\n                    at <Jasmine>",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected '51' to be 30.",
+    "statusTrace" : "Error: Expected '51' to be 30.\n                    at <Jasmine>\n                    at UserContext.toBe (./src/scenarios/selenium-easy.e2e.js:33:19)\n                    at <Jasmine>",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2b62affc46f33d1",
+      "name" : "Execution video",
+      "source" : "2b62affc46f33d1.mp4",
+      "type" : "video/mp4",
+      "size" : 63248
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "4-0"
+  }, {
+    "name" : "suite",
+    "value" : "User interactions"
+  }, {
+    "name" : "testClass",
+    "value" : "User interactions"
+  }, {
+    "name" : "testMethod",
+    "value" : "should be able to move slider (fails by design to gen video)"
+  }, {
+    "name" : "package",
+    "value" : "User interactions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "MicrosoftEdge"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "3d977710bccb6c2e.json",
+  "parameterValues" : [ "MicrosoftEdge" ]
+}

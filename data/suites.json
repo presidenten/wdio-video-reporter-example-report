@@ -1,0 +1,333 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "User interactions",
+    "children" : [ {
+      "name" : "should be able to edit input (should pass)",
+      "uid" : "d068e69ec801f9ed",
+      "parentUid" : "beaa70a751c66508607d1020c243a783",
+      "status" : "passed",
+      "time" : {
+        "start" : 1556555454585,
+        "stop" : 1556555462915,
+        "duration" : 8330
+      },
+      "flaky" : false,
+      "parameters" : [ "internet explorer" ]
+    }, {
+      "name" : "should be able to edit input (should pass)",
+      "uid" : "e6226b26326b9089",
+      "parentUid" : "beaa70a751c66508607d1020c243a783",
+      "status" : "passed",
+      "time" : {
+        "start" : 1556555454735,
+        "stop" : 1556555461219,
+        "duration" : 6484
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "should be able to edit input (should pass)",
+      "uid" : "441bf5a68a88c156",
+      "parentUid" : "beaa70a751c66508607d1020c243a783",
+      "status" : "passed",
+      "time" : {
+        "start" : 1556555455039,
+        "stop" : 1556555459272,
+        "duration" : 4233
+      },
+      "flaky" : false,
+      "parameters" : [ "safari" ]
+    }, {
+      "name" : "should be able to edit input (should pass)",
+      "uid" : "8707cfb21012736d",
+      "parentUid" : "beaa70a751c66508607d1020c243a783",
+      "status" : "passed",
+      "time" : {
+        "start" : 1556555455860,
+        "stop" : 1556555460900,
+        "duration" : 5040
+      },
+      "flaky" : false,
+      "parameters" : [ "MicrosoftEdge" ]
+    }, {
+      "name" : "should be able to edit input (should pass)",
+      "uid" : "2883f729d5513278",
+      "parentUid" : "beaa70a751c66508607d1020c243a783",
+      "status" : "passed",
+      "time" : {
+        "start" : 1556555456970,
+        "stop" : 1556555463584,
+        "duration" : 6614
+      },
+      "flaky" : false,
+      "parameters" : [ "firefox" ]
+    }, {
+      "name" : "should be able to edit input (should pass)",
+      "uid" : "6b07df7293000da1",
+      "parentUid" : "beaa70a751c66508607d1020c243a783",
+      "status" : "passed",
+      "time" : {
+        "start" : 1556555458050,
+        "stop" : 1556555471303,
+        "duration" : 13253
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome", "phone" ]
+    }, {
+      "name" : "should be able to move slider (fails by design to gen video)",
+      "uid" : "ec1b754889237ce5",
+      "parentUid" : "beaa70a751c66508607d1020c243a783",
+      "status" : "failed",
+      "time" : {
+        "start" : 1556555459285,
+        "stop" : 1556555461006,
+        "duration" : 1721
+      },
+      "flaky" : false,
+      "parameters" : [ "safari" ]
+    }, {
+      "name" : "should be able to edit input (should pass)",
+      "uid" : "bfd38169be679ad9",
+      "parentUid" : "beaa70a751c66508607d1020c243a783",
+      "status" : "passed",
+      "time" : {
+        "start" : 1556555459996,
+        "stop" : 1556555464223,
+        "duration" : 4227
+      },
+      "flaky" : false,
+      "parameters" : [ "safari", "tablet" ]
+    }, {
+      "name" : "should be able to edit input (should pass)",
+      "uid" : "b0638fd486dd177a",
+      "parentUid" : "beaa70a751c66508607d1020c243a783",
+      "status" : "passed",
+      "time" : {
+        "start" : 1556555460353,
+        "stop" : 1556555464278,
+        "duration" : 3925
+      },
+      "flaky" : false,
+      "parameters" : [ "safari", "phone" ]
+    }, {
+      "name" : "should be able to move slider (fails by design to gen video)",
+      "uid" : "3d977710bccb6c2e",
+      "parentUid" : "beaa70a751c66508607d1020c243a783",
+      "status" : "failed",
+      "time" : {
+        "start" : 1556555460913,
+        "stop" : 1556555463484,
+        "duration" : 2571
+      },
+      "flaky" : false,
+      "parameters" : [ "MicrosoftEdge" ]
+    }, {
+      "name" : "should be able to multi-select in dropdown (fails by design to gen video)",
+      "uid" : "c5a47d5363d2a100",
+      "parentUid" : "beaa70a751c66508607d1020c243a783",
+      "status" : "failed",
+      "time" : {
+        "start" : 1556555461016,
+        "stop" : 1556555463510,
+        "duration" : 2494
+      },
+      "flaky" : false,
+      "parameters" : [ "safari" ]
+    }, {
+      "name" : "should be able to move slider (fails by design to gen video)",
+      "uid" : "f4dbba59624b87a2",
+      "parentUid" : "beaa70a751c66508607d1020c243a783",
+      "status" : "failed",
+      "time" : {
+        "start" : 1556555461257,
+        "stop" : 1556555464380,
+        "duration" : 3123
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "should be able to move slider (fails by design to gen video)",
+      "uid" : "7a7182640539bd6d",
+      "parentUid" : "beaa70a751c66508607d1020c243a783",
+      "status" : "failed",
+      "time" : {
+        "start" : 1556555462927,
+        "stop" : 1556555468084,
+        "duration" : 5157
+      },
+      "flaky" : false,
+      "parameters" : [ "internet explorer" ]
+    }, {
+      "name" : "should be able to edit input (should pass)",
+      "uid" : "73cc7bd7f893a3c",
+      "parentUid" : "beaa70a751c66508607d1020c243a783",
+      "status" : "passed",
+      "time" : {
+        "start" : 1556555463489,
+        "stop" : 1556555480109,
+        "duration" : 16620
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome", "tablet" ]
+    }, {
+      "name" : "should be able to multi-select in dropdown (fails by design to gen video)",
+      "uid" : "580f79b42b16d99e",
+      "parentUid" : "beaa70a751c66508607d1020c243a783",
+      "status" : "failed",
+      "time" : {
+        "start" : 1556555463492,
+        "stop" : 1556555465609,
+        "duration" : 2117
+      },
+      "flaky" : false,
+      "parameters" : [ "MicrosoftEdge" ]
+    }, {
+      "name" : "should be able to move slider (fails by design to gen video)",
+      "uid" : "dd87be952cf7f156",
+      "parentUid" : "beaa70a751c66508607d1020c243a783",
+      "status" : "failed",
+      "time" : {
+        "start" : 1556555463625,
+        "stop" : 1556555467069,
+        "duration" : 3444
+      },
+      "flaky" : false,
+      "parameters" : [ "firefox" ]
+    }, {
+      "name" : "should be able to move slider (fails by design to gen video)",
+      "uid" : "ca3f22eb3e085f23",
+      "parentUid" : "beaa70a751c66508607d1020c243a783",
+      "status" : "failed",
+      "time" : {
+        "start" : 1556555464236,
+        "stop" : 1556555467218,
+        "duration" : 2982
+      },
+      "flaky" : false,
+      "parameters" : [ "safari", "tablet" ]
+    }, {
+      "name" : "should be able to move slider (fails by design to gen video)",
+      "uid" : "46bfc44b884bb969",
+      "parentUid" : "beaa70a751c66508607d1020c243a783",
+      "status" : "failed",
+      "time" : {
+        "start" : 1556555464297,
+        "stop" : 1556555467059,
+        "duration" : 2762
+      },
+      "flaky" : false,
+      "parameters" : [ "safari", "phone" ]
+    }, {
+      "name" : "should be able to multi-select in dropdown (fails by design to gen video)",
+      "uid" : "35f1e7a52e5401f0",
+      "parentUid" : "beaa70a751c66508607d1020c243a783",
+      "status" : "failed",
+      "time" : {
+        "start" : 1556555464390,
+        "stop" : 1556555469154,
+        "duration" : 4764
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "should be able to multi-select in dropdown (fails by design to gen video)",
+      "uid" : "ac58a8abf88b065c",
+      "parentUid" : "beaa70a751c66508607d1020c243a783",
+      "status" : "failed",
+      "time" : {
+        "start" : 1556555467066,
+        "stop" : 1556555470874,
+        "duration" : 3808
+      },
+      "flaky" : false,
+      "parameters" : [ "safari", "phone" ]
+    }, {
+      "name" : "should be able to multi-select in dropdown (fails by design to gen video)",
+      "uid" : "826423e299f554c7",
+      "parentUid" : "beaa70a751c66508607d1020c243a783",
+      "status" : "failed",
+      "time" : {
+        "start" : 1556555467076,
+        "stop" : 1556555471150,
+        "duration" : 4074
+      },
+      "flaky" : false,
+      "parameters" : [ "firefox" ]
+    }, {
+      "name" : "should be able to multi-select in dropdown (fails by design to gen video)",
+      "uid" : "22102b0029075bfb",
+      "parentUid" : "beaa70a751c66508607d1020c243a783",
+      "status" : "failed",
+      "time" : {
+        "start" : 1556555467226,
+        "stop" : 1556555471256,
+        "duration" : 4030
+      },
+      "flaky" : false,
+      "parameters" : [ "safari", "tablet" ]
+    }, {
+      "name" : "should be able to multi-select in dropdown (fails by design to gen video)",
+      "uid" : "6621354c66cb7579",
+      "parentUid" : "beaa70a751c66508607d1020c243a783",
+      "status" : "failed",
+      "time" : {
+        "start" : 1556555468090,
+        "stop" : 1556555476703,
+        "duration" : 8613
+      },
+      "flaky" : false,
+      "parameters" : [ "internet explorer" ]
+    }, {
+      "name" : "should be able to move slider (fails by design to gen video)",
+      "uid" : "b230ef90ec20b5a",
+      "parentUid" : "beaa70a751c66508607d1020c243a783",
+      "status" : "failed",
+      "time" : {
+        "start" : 1556555471331,
+        "stop" : 1556555477333,
+        "duration" : 6002
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome", "phone" ]
+    }, {
+      "name" : "should be able to multi-select in dropdown (fails by design to gen video)",
+      "uid" : "5a7eb6a7a5156112",
+      "parentUid" : "beaa70a751c66508607d1020c243a783",
+      "status" : "failed",
+      "time" : {
+        "start" : 1556555477339,
+        "stop" : 1556555486439,
+        "duration" : 9100
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome", "phone" ]
+    }, {
+      "name" : "should be able to move slider (fails by design to gen video)",
+      "uid" : "aadbb66b40087537",
+      "parentUid" : "beaa70a751c66508607d1020c243a783",
+      "status" : "failed",
+      "time" : {
+        "start" : 1556555480120,
+        "stop" : 1556555489058,
+        "duration" : 8938
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome", "tablet" ]
+    }, {
+      "name" : "should be able to multi-select in dropdown (fails by design to gen video)",
+      "uid" : "e0e009be8d728247",
+      "parentUid" : "beaa70a751c66508607d1020c243a783",
+      "status" : "failed",
+      "time" : {
+        "start" : 1556555489064,
+        "stop" : 1556555502707,
+        "duration" : 13643
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome", "tablet" ]
+    } ],
+    "uid" : "beaa70a751c66508607d1020c243a783"
+  } ]
+}

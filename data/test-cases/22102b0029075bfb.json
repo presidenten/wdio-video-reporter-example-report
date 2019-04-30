@@ -1,0 +1,84 @@
+{
+  "uid" : "22102b0029075bfb",
+  "name" : "should be able to multi-select in dropdown (fails by design to gen video)",
+  "fullName" : "User interactions.should be able to multi-select in dropdown (fails by design to gen video)",
+  "historyId" : "c10fd21864b461f614f99c5f9be546d2",
+  "time" : {
+    "start" : 1556555467226,
+    "stop" : 1556555471256,
+    "duration" : 4030
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "CompoundError: One or more errors occurred. ---\n                    Error: Expected false to be true.\n                        at <Jasmine>\n                        at UserContext.toBe (./src/scenarios/selenium-easy.e2e.js:66:40)\n                        at <Jasmine>\n                --- End of stack trace ---\n                    Error: Expected false to be true.\n                        at <Jasmine>\n                        at UserContext.toBe (./src/scenarios/selenium-easy.e2e.js:67:37)\n                        at <Jasmine>\n                --- End of stack trace ---",
+  "statusTrace" : "Error: CompoundError: One or more errors occurred. ---\n                    Error: Expected false to be true.\n                        at <Jasmine>\n                        at UserContext.toBe (./src/scenarios/selenium-easy.e2e.js:66:40)\n                        at <Jasmine>\n                --- End of stack trace ---\n                    Error: Expected false to be true.\n                        at <Jasmine>\n                        at UserContext.toBe (./src/scenarios/selenium-easy.e2e.js:67:37)\n                        at <Jasmine>\n                --- End of stack trace ---\n                    at getErrorFromFailedTest (./node_modules/@wdio/allure-reporter/build/utils.js:80:56)\n                    at AllureReporter.onTestFail (./node_modules/@wdio/allure-reporter/build/index.js:109:67)\n                    at AllureReporter.WDIOReporter.on.test (./node_modules/@wdio/reporter/build/index.js:131:12)\n                    at AllureReporter.emit (events.js:189:13)\n                    at AllureReporter.EventEmitter.emit (domain.js:441:20)\n                    at reporters.forEach.reporter (./node_modules/@wdio/runner/build/reporter.js:53:49)\n                    at Array.forEach (<anonymous>)\n                    at BaseReporter.emit (./node_modules/@wdio/runner/build/reporter.js:53:20)\n                    at JasmineReporter.emit (./node_modules/@wdio/jasmine-framework/build/reporter.js:120:19)\n                    at JasmineReporter.specDone (./node_modules/@wdio/jasmine-framework/build/reporter.js:66:10)",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "CompoundError: One or more errors occurred. ---\n                    Error: Expected false to be true.\n                        at <Jasmine>\n                        at UserContext.toBe (./src/scenarios/selenium-easy.e2e.js:66:40)\n                        at <Jasmine>\n                --- End of stack trace ---\n                    Error: Expected false to be true.\n                        at <Jasmine>\n                        at UserContext.toBe (./src/scenarios/selenium-easy.e2e.js:67:37)\n                        at <Jasmine>\n                --- End of stack trace ---",
+    "statusTrace" : "Error: CompoundError: One or more errors occurred. ---\n                    Error: Expected false to be true.\n                        at <Jasmine>\n                        at UserContext.toBe (./src/scenarios/selenium-easy.e2e.js:66:40)\n                        at <Jasmine>\n                --- End of stack trace ---\n                    Error: Expected false to be true.\n                        at <Jasmine>\n                        at UserContext.toBe (./src/scenarios/selenium-easy.e2e.js:67:37)\n                        at <Jasmine>\n                --- End of stack trace ---\n                    at getErrorFromFailedTest (./node_modules/@wdio/allure-reporter/build/utils.js:80:56)\n                    at AllureReporter.onTestFail (./node_modules/@wdio/allure-reporter/build/index.js:109:67)\n                    at AllureReporter.WDIOReporter.on.test (./node_modules/@wdio/reporter/build/index.js:131:12)\n                    at AllureReporter.emit (events.js:189:13)\n                    at AllureReporter.EventEmitter.emit (domain.js:441:20)\n                    at reporters.forEach.reporter (./node_modules/@wdio/runner/build/reporter.js:53:49)\n                    at Array.forEach (<anonymous>)\n                    at BaseReporter.emit (./node_modules/@wdio/runner/build/reporter.js:53:20)\n                    at JasmineReporter.emit (./node_modules/@wdio/jasmine-framework/build/reporter.js:120:19)\n                    at JasmineReporter.specDone (./node_modules/@wdio/jasmine-framework/build/reporter.js:66:10)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "45f5b26cbd593ba7",
+      "name" : "Execution video",
+      "source" : "45f5b26cbd593ba7.mp4",
+      "type" : "video/mp4",
+      "size" : 82001
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "User interactions"
+  }, {
+    "name" : "testClass",
+    "value" : "User interactions"
+  }, {
+    "name" : "testMethod",
+    "value" : "should be able to multi-select in dropdown (fails by design to gen video)"
+  }, {
+    "name" : "package",
+    "value" : "User interactions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "safari"
+  }, {
+    "name" : "deviceType",
+    "value" : "tablet"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "22102b0029075bfb.json",
+  "parameterValues" : [ "safari", "tablet" ]
+}

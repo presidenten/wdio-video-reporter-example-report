@@ -1,0 +1,81 @@
+{
+  "uid" : "580f79b42b16d99e",
+  "name" : "should be able to multi-select in dropdown (fails by design to gen video)",
+  "fullName" : "User interactions.should be able to multi-select in dropdown (fails by design to gen video)",
+  "historyId" : "b54cc6e22da6a7d2f43cb79ec8bac352",
+  "time" : {
+    "start" : 1556555463492,
+    "stop" : 1556555465609,
+    "duration" : 2117
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Error: Unknown error",
+  "statusTrace" : "Error: Unknown error\n                    at UserContext.execute (./src/scenarios/selenium-easy.e2e.js:41:13)",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Error: Unknown error",
+    "statusTrace" : "Error: Unknown error\n                    at UserContext.execute (./src/scenarios/selenium-easy.e2e.js:41:13)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3b467f26ac835331",
+      "name" : "Execution video",
+      "source" : "3b467f26ac835331.mp4",
+      "type" : "video/mp4",
+      "size" : 38707
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "4-0"
+  }, {
+    "name" : "suite",
+    "value" : "User interactions"
+  }, {
+    "name" : "testClass",
+    "value" : "User interactions"
+  }, {
+    "name" : "testMethod",
+    "value" : "should be able to multi-select in dropdown (fails by design to gen video)"
+  }, {
+    "name" : "package",
+    "value" : "User interactions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "MicrosoftEdge"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "580f79b42b16d99e.json",
+  "parameterValues" : [ "MicrosoftEdge" ]
+}
